@@ -1,3 +1,3 @@
 # DataStructure
 Study notes
-About Linklist
+About Linklist and Stack
